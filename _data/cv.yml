@@ -1,18 +1,18 @@
 
 # - title: Education
-#   type: time_table
-#   contents:
-#     - title: PhD, Information Science
-#       institution: Cornell Tech
-#       year: 2021-
-#       description:
-#         - Advisor- Mor Naaman
+  # type: time_table
+  # contents:
+  #   - title: PhD, Information Science
+  #     institution: Cornell Tech
+  #     year: 2021-
+  #     description:
+  #       - Advisor- Mor Naaman
 
-#     - title: BS, Computer Engineering
-#       institution: Florida A&M University
-#       year: 2021
-#       description:
-#         - Summa cum laude, with honors
+  #   - title: BS, Computer Engineering
+  #     institution: Florida A&M University
+  #     year: 2021
+  #     description:
+  #       - Summa cum laude, with honors
 
 # - title: Research Experience
 #   type: time_table
