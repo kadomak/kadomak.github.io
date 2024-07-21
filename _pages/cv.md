@@ -1,9 +1,9 @@
 ---
 layout: cv
 permalink: /cv/
-title: cv
+title: CV
 nav: true
-nav_order: 1
+nav_order: 2
 cv_pdf: Kadoma_CV.pdf
 ---
 Click the icon for my full CV. 

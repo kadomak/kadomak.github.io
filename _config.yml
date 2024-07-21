@@ -69,7 +69,7 @@ github_username: kadomak # your GitHub user name
 twitter_username: __kkado # your Twitter handle
 linkedin_username: kowekadoma # your LinkedIn user name
 scholar_userid: X2ZQ7zAAAAAJ # your Google Scholar ID
-coursera_username: 114690290
+coursera_username: 114690290 #instructor ID
 
 contact_note: >
    Email is the best way to reach me
@@ -122,8 +122,8 @@ collections:
     output: true
     permalink: /projects/:path/
 
-news_scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-news_limit: 3 # leave blank to include all the news in the `_news` folder
+news_scrollable: false # adds a vertical scroll bar if there are more than 3 news items
+news_limit: 3  # leave blank to include all the news in the `_news` folder
 
 # -----------------------------------------------------------------------------
 # Jekyll settings
