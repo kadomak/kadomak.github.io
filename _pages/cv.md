@@ -7,3 +7,4 @@ nav_order: 2
 cv_pdf: Kadoma_CV.pdf
 ---
 Click the icon for my full CV. 
+
